@@ -4,6 +4,7 @@ body {
 }
 canvas {
     box-shadow: -3px 2px 9px 6px grey;
+    width:100%;
 }
 .tools {
     display: flex;
