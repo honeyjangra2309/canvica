@@ -33,7 +33,7 @@ canvas {
     .tools .tools-color .button {
         margin: 10px;
     }
-    .tools .tools-color .color-field {
+    .tools .tools-color .color-field .color-picker .pen-range{
         margin: 10px;}
 } 
 .tools .button {
