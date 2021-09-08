@@ -25,6 +25,15 @@ canvas {
     align-self: center;
     margin: 0 10px;
 }
+@media only screen and (max-width:768px)
+{
+    .tools .tools-color {
+        flex-direction: column;
+    }
+    .tools .tools-color .button {
+        margin: 10px;
+    }
+} 
 .tools .button {
     align-self: center;
     width: 100px;
