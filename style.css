@@ -33,6 +33,8 @@ canvas {
     .tools .tools-color .button {
         margin: 10px;
     }
+    .tools .tools-color .color-field {
+        margin: 10px;}
 } 
 .tools .button {
     align-self: center;
